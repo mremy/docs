@@ -11,7 +11,7 @@ From Mattermost v9.2, this changelog summarizes updates for the latest cloud and
 - **Cloud Releases Prior to v9.2**: See the [Mattermost Legacy Cloud Changelog](/deploy/legacy-cloud-changelog) for details.
 ```
 
-```{contents} On ths page
+```{contents} On this page
 :depth: 2
 ```
 
